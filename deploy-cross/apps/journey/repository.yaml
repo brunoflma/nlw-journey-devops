@@ -9,5 +9,5 @@ metadata:
 
 stringData:
   type: git
-  url:
-  sshPrivateKey: |
+  url: git@github.com:brunoflma/app-journey.git
+  #sshPrivateKey: |
